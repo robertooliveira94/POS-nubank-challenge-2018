@@ -1,0 +1,44 @@
+COLUNA - DESCRIÇÃO
+ids - id do cliente
+target_default - variável que indica se o cliente entrou em defaultou não
+score_1 - score de classíficação do cliente
+score_2 - score de classificação do cliente
+score_3 - score de classificação do cliente
+score_4 - score de classificação do cliente
+score_5 - score de classificação do cliente
+score_6 - score de classificação do cliente
+risk_rate - taxa de risco
+last_amount_borrowed - último valor emprestado
+last_borrowed_in_months - quantidade de meses desde o último empréstimo
+credit_limit - limite de crédito
+reason - Razão
+income - Renda
+facebook_profile - possui facebook ou não
+state - Estado
+zip - CEP
+channel - canal de contato
+job_name - Profissão
+real_state - valor criptografado
+ok_since - OK desde
+n_bankruptcies - Quebra de contrato
+n_defaulted_loans - Empréstimos inadimplentes
+n_accounts - Quantidade de contas
+n_issues - Quantidade de emissões
+application_time_applied - Tempo de aplicação aplicado (tradução literal)
+application_time_in_funnel - Tempo de aplicação no funil (tradução literal)
+email - Provedor de E_mail
+external_data_provider_credit_checks_last_2_year - Verificações de crédito nos últimos 2 anos
+external_data_provider_credit_checks_last_month - Verificações de crédito no último mes
+external_data_provider_credit_checks_last_year - Verificações de crédito no último ano
+external_data_provider_email_seen_before - email do provedor de dados externo visto antes (tradução literal)
+external_data_provider_first_name - Primeiro nome no provedor
+external_data_provider_fraud_score - pontuação de fraude do provedor de dados externo (tradução literal)
+lat_lon - Latitude e Longitude de localização
+marketing_channel - Canal de contato
+profile_phone_number - Número de telefone
+reported_income - Salário informado
+shipping_state - Estado de compra
+shipping_zip_code - CEP da compra
+profile_tags - Tags
+user_agent - Navegador utilizado
+target_fraud - variável targetpara indicação de fraude

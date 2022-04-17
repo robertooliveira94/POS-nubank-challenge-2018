@@ -1,0 +1,69 @@
+Coluna;Tipo;DescriÁ„o
+corte1;Float;Renda per capita m·xima do 1∫ quinto mais pobre
+corte2;Float;Renda per capita m·xima do 2∫ quinto mais pobre
+corte3;Float;Renda per capita m·xima do 3∫ quinto mais pobre
+corte4;Float;Renda per capita m·xima do 4∫ quinto mais pobre
+corte9;Float;Renda per capita m√≠nima do dÈcimo mais rico
+gini;Float;Õçndice de Gini
+pind;Float;% de extremamente pobres
+pindcri;Float;% de crianÁas extremamente pobres
+pmpob;Float;% de pobres
+pmpobcri;Float;% de crianÁas pobres
+ppob;Float;% de vulner·veis ‡† pobreza
+ppobcri;Float;% de crianÁas vulner·veis ‡† pobreza
+pren10ricos;Float;Percentual da renda apropriada pelos 10% mais ricos
+pren20;Float;Percentual da renda apropriada pelos 20% mais pobres
+pren20ricos;Float;Percentual da renda apropriada pelos 20% mais ricos
+pren40;Float;Percentual da renda apropriada pelos 40% mais pobres
+pren60;Float;Percentual da renda apropriada pelos 60% mais pobres
+pren80;Float;Percentual da renda apropriada pelos 80% mais pobres
+prentrab;Float;% da renda proveniente de rendimentos do trabalho
+r1040;Float;Raz„o 10% mais ricos / 40% mais pobres
+r2040;Float;Raz„o 20% mais ricos / 40% mais pobres
+rdpc;Float;Renda per capita 
+rdpc1;Float;Renda per capita mÈdia do 1∫ quinto mais pobre
+rdpc10;Float;Renda per capita mÈdia do dÈcimo mais rico
+rdpc2;Float;Renda per capita mÈdia do 2∫ quinto mais pobre
+rdpc3;Float;Renda per capita mÈdia do 3∫ quinto mais pobre
+rdpc4;Float;Renda per capita mÈdia do 4∫ quinto mais pobre
+rdpc5;Float;Renda per capita mÈdia do quinto mais rico
+rdpct;Float;Renda per capita , exceto renda nula
+rind;Float;Renda per capita mÈdia dos extremamente pobres
+rmpob;Float;Renda per capita mÈdia dos pobres
+rpob;Float;Renda per capita mÈdia dos vulner·veis ‡† pobreza
+theil;Float;Õçndice de Theil - L - Mede a Desigualdade segundo a renda domiciliar percapita
+cpr;Float;% de trabalhadores por conta prÛpria - 18 anos ou mais
+emp;Float;% de empregadores - 18 anos ou mais
+p_agro;Float;% dos ocupados no setor agropecu·rio - 18 anos ou mais
+p_com;Float;% dos ocupados no setor comÈrcio - 18 anos ou mais
+p_constr;Float;% dos ocupados no setor de construÁ„o - 18 anos ou mais
+p_extr;Float;% dos ocupados no setor extrativo mineral - 18 anos ou mais
+p_formal;Float;Grau de formalizaÁ„o dos ocupados - 18 anos ou mais
+p_fund;Float;% dos ocupados com fundamental completo - 18 anos ou mais
+p_med;Float;% dos ocupados com mÈdio completo - 18 anos ou mais
+p_serv;Float;% dos ocupados no setor serviÁos - 18 anos ou mais
+p_super;Float;% dos ocupados com superior completo - 18 anos ou mais
+p_transf;Float;% dos ocupados na ind˙stria de transformaÁ„o - 18 anos ou mais
+ren0;Float;% dos ocupados sem rendimento - 18 anos ou mais
+ren1;Float;% dos ocupados com rendimento de atÈ 1 s.m. - 18 anos ou mais
+ren2;Float;% dos ocupados com rendimento de atÈ 2 s.m. - 18 anos ou mais
+ren3;Float;% dos ocupados com rendimento de atÈ 3 s.m. - 18 anos ou mais
+ren5;Float;% dos ocupados com rendimento de atÈ 5 s.m. - 18 anos ou mais
+renocup;Float;Rendimento mÈdio dos ocupados - 18 anos ou mais
+t_ativ;Float;Taxa de atividade - 10 anos ou mais
+t_ativ1014;Float;Taxa de atividade - 10 a 14 anos
+t_ativ1517;Float;Taxa de atividade - 15 a 17 anos
+t_ativ1824;Float;Taxa de atividade - 18 a 24 anos
+t_ativ18m;Float;Taxa de atividade - 18 anos ou mais
+t_ativ2529;Float;Taxa de atividade - 25 a 29 anos
+t_des;Float;Taxa de desocupaÁ„o - 10 anos ou mais
+t_des1014;Float;Taxa de desocupaÁ„o - 10 a 14 anos
+t_des1517;Float;Taxa de desocupaÁ„o - 15 a 17 anos
+t_des1824;Float;Taxa de desocupaÁ„o - 18 a 24 anos
+t_des18m;Float;Taxa de desocupaÁ„o - 18 anos ou mais
+t_des2529;Float;Taxa de desocupaÁ„o - 25 a 29 anos
+theiltrab;Float;Õndice de Theil-L dos rendimentos do trabalho - 18 anos ou mais
+trabcc;Float;% de empregados com carteira - 18 anos ou mais
+trabpub;Float;% de trabalhadores do setor p˙blico - 18 anos ou mais
+trabsc;Float;% de empregados sem carteira - 18 anos ou mais
+t_luz;Float;% da populaÁ„o em domicÌlios com energia elÈtrica
